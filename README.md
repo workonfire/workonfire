@@ -1,9 +1,12 @@
-![Wzium](https://img.shields.io/badge/wzium-true-green)
+![Wzium](https://img.shields.io/badge/wzium-true-green) ![Discord](https://img.shields.io/badge/discord-workonfire%238262-%237289DA?logo=discord&logoColor=white)
 
-### Hello.
+### Hello. 👋
 
-I'm an ***incredibly lazy*** person that codes from time to time.
+I'm *workonfire*, also known as *Buty935*. I'm an **incredibly lazy** person that codes from time to time.
 
-I have experience mainly with **Python**, **Java** and **PHP**, but I don't consider myself as a good programmer. :disappointed:
+I have experience mainly with **Python**, **Java** and **PHP**, but I don't consider myself as a good programmer.
 
 Check my pinned repositories to see, what I'm proud of.
+
+![Stats](https://github-readme-stats.vercel.app/api?username=workonfire&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=workonfire&layout=compact&hide=vbscript,tsql)
