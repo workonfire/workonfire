@@ -1,4 +1,4 @@
-![Wzium](https://img.shields.io/badge/wzium-true-green) ![Discord](https://img.shields.io/badge/discord-workonfire%238262-%237289DA?logo=discord&logoColor=white)
+![Wzium](https://img.shields.io/badge/wzium-true-green) ![Buty](https://img.shields.io/badge/Buty-v9.3.5-blue) ![Discord](https://img.shields.io/badge/discord-workonfire%238262-%237289DA?logo=discord&logoColor=white)
 
 ### Hello. 👋
 
