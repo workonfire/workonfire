@@ -2,13 +2,24 @@
 
 ### Hello. 👋
 
-I'm *workonfire*, also known as *Buty935*. I'm an **incredibly lazy** person that codes from time to time.
-
-I have experience mainly with **Python**, **Java** and **PHP**, but I don't consider myself as a good programmer.
-
-Check my pinned repositories to see, what I'm proud of.
-
-![Stats](https://github-readme-stats.vercel.app/api?username=workonfire&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=workonfire&layout=compact&hide=vbscript,tsql)
+```java
+public final class workonfire extends Buty935 implements Life {
+    final Class<?>[] hobbies   = {Sleeping.class, Eating.class, ListeningToMusic.class};
+    final String[]   languages = {"Python", "Java", "PHP"};
+    final Object[]   skills    = null; // I don't know
+    final boolean    lazy      = true;
+    
+    @Override
+    public String howDoIFeel() {
+        return "Yeah, I don't consider myself as a good programmer.";
+    }
+    
+    @Override
+    public List<Class<? extends Project>> getProjects() {
+        System.out.println("Check my pinned repositories!");
+        return Project.getProjects();
+    }
+}
+```
 
 *Profile picture by [@jjay31](https://github.com/wzium)*
