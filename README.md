@@ -11,6 +11,8 @@ public final class workonfire extends Buty935 implements Life {
     
     @Override
     public String howDoIFeel() {
+        while (lazy)
+            doNothing();
         return "Yeah, I don't consider myself as a good programmer.";
     }
     
