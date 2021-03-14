@@ -8,7 +8,7 @@ I have experience mainly with **Python**, **Java** and **PHP**, but I don't cons
 
 Check my pinned repositories to see, what I'm proud of.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=workonfire&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=react)
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=workonfire&layout=compact&hide=vbscript,tsql&theme=react)
+![Stats](https://github-readme-stats.vercel.app/api?username=workonfire&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=workonfire&layout=compact&hide=vbscript,tsql)
 
 *Profile picture by [@jjay31](https://github.com/wzium)*
