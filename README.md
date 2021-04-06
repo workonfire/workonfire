@@ -9,7 +9,7 @@ public final class workonfire extends Buty935 implements Life {
     final Class<?>[] hobbies   = {Sleeping.class, Eating.class, ListeningToMusic.class};
     final String[]   languages = {"Python", "Java", "PHP"};
     final Object[]   skills    = null; // I don't know
-    final List<Tool> tools     = Arrays.asList("Arch", "JetBrains' IDEs", "Adobe Xd", "Fiddler");
+    final List<Tool> tools     = Arrays.asList(archLinux, jetBrainsIDEs, adobeXd, fiddler);
     final boolean    lazy      = true;
     
     @Override
