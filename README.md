@@ -31,7 +31,8 @@ public final class workonfire extends Buty935 implements Life {
   <summary>Badges? (warning, eye seizure!)</summary>
   
   ## Contact
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) [kolucki62@gmail.com](mailto:kolucki62@gmail.com)
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) [kolucki62@gmail.com](mailto:kolucki62@gmail.com) \
+  ![Discord](https://img.shields.io/badge/discord-7289DA?logo=discord&logoColor=white) workonfire#8262
   
   ## Social
   ![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white) I barely use it \
@@ -39,14 +40,18 @@ public final class workonfire extends Buty935 implements Life {
   ![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white) yup, [here's](https://www.youtube.com/channel/UCbJLBYpRlnzlLkyxLOYpCVw) my channel \
   ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&logo=spotify&logoColor=white) loving 80s music and metal
   
-  ## Tools and sites
-  ![XDA](https://img.shields.io/badge/XDA_Developers-F59812?logo=xda-developers&logoColor=white) playing with Custom ROMs since 2015, but never tried to make them \
-  ![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white) who doesn't use it?
-  
   ## Hardware
-  ![NVIDIA](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?logo=nvidia&logoColor=white)
+  ![NVIDIA](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?logo=nvidia&logoColor=white)
   ![AMD](https://img.shields.io/badge/AMD-Ryzen_5_2600-ED1C24?logo=amd&logoColor=white)
   
+  ## Tools and sites
+  ![XDA](https://img.shields.io/badge/XDA_Developers-F59812?logo=xda-developers&logoColor=white) playing with Custom ROMs since 2015, but never tried to make them \
+  ![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white) who doesn't use it? \
+  ![Fiddler](https://img.shields.io/badge/Telerik-Fiddler-5CE404?logoColor=white) using for debugging HTTP requests and creating APIs \
+  ![PyCharm](https://img.shields.io/badge/JetBrains-PyCharm-3CD692?logo=pycharm&logoColor=white) :heart: \
+  ![PhpStorm](https://img.shields.io/badge/JetBrains-PhpStorm-ED3EA5?logo=phpstorm&logoColor=white) :heart: \
+  ![IntelliJ](https://img.shields.io/badge/JetBrains-IntelliJ_IDEA-F97B0A?logo=phpstorm&logoColor=white) :heart:
+
   ## Environments, history and misc
   ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) currently on stock Oreo, HUAWEI P9 \
   ![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white) used to have an iPhone 4S, played around with jailbroken iOS 6.1.3 and 9.3.5 \
@@ -55,7 +60,7 @@ public final class workonfire extends Buty935 implements Life {
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) used since 14.04, but then switched to Windows \
   ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white) my favorite Linux Distro **ever**. In use since November 2020 \
   ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white) a typical fan since Android 5.0 \
-  ![GNOME](https://img.shields.io/badge/GNOME-40-FFFFFF?logo=gnome&logoColor=white) my favorite desktop environment
+  ![GNOME](https://img.shields.io/badge/GNOME-40-4A86CF?logo=gnome&logoColor=white) my favorite desktop environment
   
   ## Skills
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) started learning in 2017 \
@@ -69,7 +74,7 @@ public final class workonfire extends Buty935 implements Life {
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) basic knowledge \
   ![Shell](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white) basic knowledge \
   ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white) used to create interactive OS concepts and designs \
-  ![XD](https://img.shields.io/badge/Adobe-XD-E91E63?logo=adobe&logoColor=white) basic knowledge
+  ![XD](https://img.shields.io/badge/Adobe-XD-E91E63?logo=adobe-xd&logoColor=white) basic knowledge
 
 </details>
 
