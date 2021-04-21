@@ -56,7 +56,7 @@ public final class workonfire extends Buty935 implements Life {
   ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) currently on stock Oreo, HUAWEI P9 \
   ![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white) used to have an iPhone 4S, played around with jailbroken iOS 6.1.3 and 9.3.5 \
   ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) abandoned in November 2020 \
-  ![Windows XP](https://img.shields.io/badge/Windows_XP-003399?logo=windows-xp&logoColor=white) grep up with, used from 2008 to 2016 \
+  ![Windows XP](https://img.shields.io/badge/Windows_XP-003399?logo=windows-xp&logoColor=white) grew up with, used from 2008 to 2016 \
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) used since 14.04, but then switched to Windows \
   ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white) my favorite Linux Distro **ever**. In use since November 2020 \
   ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white) a typical fan since Android 5.0 \
@@ -64,11 +64,11 @@ public final class workonfire extends Buty935 implements Life {
   
   ## Skills
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) started learning in 2017 \
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) first contact in 2016, but I know only basics \
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) first contact in 2016, but I only know basics \
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) know only basics as well \
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) same \
   ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) started learning in April 2020 \
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) started learning in July 2016, I still know only basics \
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) started learning in July 2016, I still only know basics \
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white) knows only some queries \
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&logo=kotlin&logoColor=white) currently learning! \
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) basic knowledge \
