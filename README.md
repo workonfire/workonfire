@@ -28,7 +28,7 @@ public final class workonfire extends Buty935 implements Life {
 ```
 
 <details>
-  <summary>Badges? (warning, eye seizure!)</summary>
+  <summary>Badges?</summary>
   
   ## Contact
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) [kolucki62@gmail.com](mailto:kolucki62@gmail.com) \
